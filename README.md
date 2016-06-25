@@ -1,5 +1,5 @@
 # DropboxGradlePlugin
-Sample repository with a Gradle Plugin which allows to upload apk files to Dropbox.
+Sample repository with a Gradle Plugin which allows to upload apk files to Dropbox http://blog.gfabrego.com/2016/06/creating-gradle-plugins-for-android.html
 
 If you want to try, you should: 
 
