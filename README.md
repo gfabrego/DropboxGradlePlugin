@@ -5,7 +5,7 @@ If you want to try, you should:
 
 1. Create a Dropbox application https://www.dropbox.com/developers
 
-2. Run publish to local maven task in gradle-dropbox-plugin module (you will need to comment it in app's build.gradle so the gradle sync can be successfully executed)
+2. Run publish to local maven task in gradle-dropbox-plugin module. You will need to initially comment plugin's use in app's build.gradle and in main build.gradle (classpath) so the gradle sync can be successfully executed.
 
 3. Set the access token in app's build.gradle file. Also app's folder may be configured. 
 
